@@ -1,0 +1,15 @@
+{
+  "name": "jexa-designs",
+  "private": true,
+  "scripts": {
+    "build:folder": "node build-folder.cjs"
+  },
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "matter-js": "0.20.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10"
+  }
+}

@@ -1,0 +1,1 @@
+require('esbuild').buildSync({entryPoints:['components/folder-entry.jsx'],bundle:true,minify:true,jsx:'automatic',define:{'process.env.NODE_ENV':'"production"'},outfile:'dist/assets/folder-float.js'});
