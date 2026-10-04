@@ -22,4 +22,3 @@
 GitHub Pages 使用 GitHub Actions 工作流。推送 main 会自动构建并发布 dist。
 
 网站中的图标与原创音乐来自本项目。FolderFloat 基于用户提供的 React Bits 组件代码；React、Matter.js、esbuild 等第三方依赖的许可见其包内声明。
-
