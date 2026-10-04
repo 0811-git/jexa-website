@@ -3,3 +3,4 @@ work/
 .env*
 *.zip
 *.tar.gz
+.playwright-cli/
